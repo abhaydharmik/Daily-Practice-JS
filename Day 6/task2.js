@@ -3,7 +3,7 @@
 let students = [
   { name: "Aman", marks: 78 },
   { name: "Riya", marks: 92 },
-  { name: "Karan", marks: 85 },
+  { name: "Vrijesh", marks: 85 },
 ];
 
 for (let i = 0; i < students.length; i++) {
